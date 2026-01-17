@@ -27,12 +27,12 @@
 - Storage layout (SSD + HDD)
 - Samba file sharing
 
-➡️ Repository: *(akan kita buat)*
+➡️ Repository: *(https://github.com/hajar1685-ai/debian-office-server)*
 
 ---
 
 ### ☁️ Self-Hosted Nextcloud
-📌 Private cloud for internal office usage  
+📌 Private cloud for internal office usage 
 - Docker deployment
 - Cloudflare Tunnel (secure remote access)
 - Data migration & storage separation
